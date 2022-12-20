@@ -1,0 +1,11 @@
+git config --get-all user.name IDRIMalek
+git config --get-all user.email idri.malek@gmail.com
+
+gpg: clef CAC10B0DB7DE2AA5 marquée de confiance ultime.
+gpg: revocation certificate stored as 'C:/Users/idrim/AppData/Roaming/gnupg/openpgp-revocs.d\1333CB3B0F68FC20EA69176ECAC10B0DB7DE2AA5.rev'
+les clefs publique et secrète ont été créées et signées.
+
+pub   rsa3072 2022-12-10 [SC]
+      1333CB3B0F68FC20EA69176ECAC10B0DB7DE2AA5
+uid                      Malek IDRI <idri.malek@gmail.com>
+sub   rsa3072 2022-12-10 [E]

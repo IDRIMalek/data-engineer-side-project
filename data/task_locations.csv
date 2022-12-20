@@ -1,0 +1,400 @@
+location_id,city,postal_code,country,address,confirmed
+0OPfGunr3HYLwRKhE,Créteil,94000,FR,"Av. de la France libre, 94000 Créteil, France",true
+1MqyswOr2XSJhXdBD,Marseille,13014,FR,"Av. du Marché national, 13014 Marseille, France",true
+2M3flfoHbKJjr3Gxq,Paris,75018,FR,"189 Rue d'Aubervilliers, 75018 Paris, France",true
+3EbwFmGD1VJfHxWvI,Saint-Ouen,93400,FR,"14 Rue Palouzié, 93400 Saint-Ouen, France",true
+7AK5TQ8rnwwcKk5so,Serris,77700,FR,"14 Cr du Danube, 77700 Serris, France",true
+8kyDbqM0oujUNpcLn,Rosny-sous-Bois,93110,FR,"2 Av. du Général de Gaulle, 93110 Rosny-sous-Bois, France",true
+DSBHGfx5G1QqJeLi3,Paris,75003,FR,"117 Rue Vieille-du-Temple, 75003 Paris, France",true
+HUdwSdKjucD6U46cc,Noisy-le-Grand,93160,FR,"234 Bd du Mont d'Est, 93160 Noisy-le-Grand, France",true
+HhoegL0m0Emb31LIx,La Courneuve,93120,FR,"75 Rue Rateau, 93120 La Courneuve, France",true
+JdiOTGoSQXxFIXB5g,Thiais,94320,FR,"15 Rue des Alouettes, 94320 Thiais, France",true
+JssrffFSHJxqhbkG5,Paris,75001,FR,"101 Rue Pierre Lescot, 75001 Paris, France",true
+PpfFTSh14NANdskj7,Aulnay-sous-Bois,93600,FR,"93600 Aulnay-sous-Bois, France",true
+QDZjA9Dj7mmMXL8yv,Paris,75008,FR,"43 Rue du Rocher, 75008 Paris, France",true
+Rqf2lqr54HleldByn,Paris,75018,FR,"162 Rue Ordener, 75018 Paris, France",true
+Wdm4ZjcHvL49AVm2S,Lille,59777,FR,"100 Av. Willy Brandt, 59777 Lille, France",true
+Ys2R77lpLQU3j9uxT,Paris,75011,FR,"4 Rue Paul Bert, 75011 Paris, France",true
+aA4P4kZgQw96pFYo9,Paris,75010,FR,"138 Rue du Faubourg Poissonnière, 75010 Paris, France",true
+d43HbuIngGAgXq5xb,Paris,75007,FR,"5 Rue de Babylone, 75007 Paris, France",true
+tru30RvD2bVSO5TdC,Bègles,33130,FR,"9004 Rue Denis Papin, 33130 Bègles, France",true
+x0fogvJ4W52RHT6iO,Paris,75015,FR,"79 Rue des Entrepreneurs, 75015 Paris, France",true
+Bt8Rh76KpX9vq0hgd,Nanterre,92000,FR,"140 Rue de Sartrouville, 92000 Nanterre, France",true
+wLoVNHhZ26jJ6Uvjr,Marseille,13001,FR,"52 Rue Paradis, 13001 Marseille, France",true
+v8GAnnkbxGCCnHo84,Paris,75016,FR,"20 Rue Mirabeau, 75016 Paris, France",true
+E9QlO33Voy4ii2Zh4,Montreuil,93100,FR,"6 Pl. Jean Jaurès, 93100 Montreuil, France",true
+iWIdn1jG02x0cjHOT,Wissous,94150,FR,"7 Rue des Vosges, 94150 Wissous, France",true
+41cyoTUr5K7Ziwq3W,Vitry-sur-Seine,94400,FR,"52 Bd de Stalingrad, 94400 Vitry-sur-Seine, France",true
+qHNG3Yl5IrKpoZVT4,Noisy-le-Roi,78590,FR,"4 Rue André le Bourblanc, 78590 Noisy-le-Roi, France",true
+jbeNeiXP1M7bm5XJc,Paris,75003,FR,"81 Rue Vieille-du-Temple, 75003 Paris, France",true
+JC1XXo9AWiN3L378g,Paris,75009,FR,"20 Rue La Fayette, 75009 Paris, France",true
+xF0bej1XUfVsn8WwA,Nice,06100,FR,"42 Av. Alfred Borriglione, 06100 Nice, France",true
+SX480QM145oCcphwl,Paris,75010,FR,"174 Quai de Jemmapes, 75010 Paris, France",true
+G5QE9Ox1xf8jEdmmG,Wissous,91320,FR,"7 Rue des Pyrénées, 91320 Wissous, France",true
+jblXciQKw9eWZDfTH,Lyon,69003,FR,"Centre Commercial Part Dieu, 17 Rue Dr Bouchut, 69003 Lyon, France",true
+xM5jf6p27sJoJenQZ,Clichy,92110,FR,"34 Rue de Neuilly, 92110 Clichy, France",true
+9RZBvvUj1nfB6bqYD,Paris,75008,FR,"64 Bd Haussmann, 75008 Paris, France",true
+O7nM8anYufadfPWVP,Noisy-le-Sec,93130,FR,"122 Rue Paul Vaillant Couturier, 93130 Noisy-le-Sec, France",true
+lk4RBFjViMhP3njsP,Émerainville,77184,FR,"33 Bd de Beaubourg, 77184 Émerainville, France",true
+KRaWcgxH8C62xN4cf,Paris,75006,FR,"4 Rue du Cherche-Midi, 75006 Paris, France",true
+Nkx4vn7cUgOdDsxII,Paris,75012,FR,"6 Pl. du Colonel Bourgoin, 75012 Paris, France",true
+QM4fKx1DGiuoImoSZ,Paris,75014,FR,"2 Pl. de Catalogne, 75014 Paris, France",true
+E91RAxIJTTe2HvIx4,Saint-Maur-des-Fossés,94100,FR,"26-30 bis Av. du Bac, 94100 Saint-Maur-des-Fossés, France",true
+NcjlWbeC0K3ejnkvh,Paris,75008,FR,"40 Rue du Colisée, 75008 Paris, France",true
+SB15BZuJuxEVtROTa,Paris,75009,FR,"16 Rue Pierre Fontaine, 75009 Paris, France",true
+OMmloNmihQ1FDedlG,Montreuil,93100,FR,"20 Rue Voltaire, 93100 Montreuil, France",true
+HtD8D1RcGJuXcgc7J,Ivry-sur-Seine,94200,FR,"128B Av. Jean Jaurès, 94200 Ivry-sur-Seine, France",true
+5X7KZ3n3PErWDBnO4,Lyon,69003,FR,"Centre Commercial Part Dieu, 17 Rue Dr Bouchut, 69003 Lyon, France",true
+m2WEyjx0a3YomVUXi,Thiais,94320,FR,"740 Rue du Luxembourg, 94320 Thiais, France",true
+sLG7vAWdx4hvgqq9J,Paris,75009,FR,"56 Rue de Caumartin, 75009 Paris, France",true
+P1qpfXCLft16yDBt1,Paris,75008,FR,"65 Av. des Champs-Élysées, 75008 Paris, France",true
+nho4mbM01RVidQFNF,Paris,75009,FR,"48 Bd Haussmann, 75009 Paris, France",true
+XvNpFlHixsYnRnZoa,Grenoble,38000,FR,"6 Pl. Robert Schuman, 38000 Grenoble, France",true
+Lw5evI0PrVeQhtTXM,Paris,75011,FR,"77 Rue du Faubourg Saint-Antoine, 75011 Paris, France",true
+WMZvHFIKcdZi85fOW,Paris,75002,FR,"69 Rue de Richelieu, 75002 Paris, France",true
+u2I7tICXoVsCdBRfu,Les Clayes-sous-Bois,78340,FR,"1 Av. du Président John Fitzgerald Kennedy, 78340 Les Clayes-sous-Bois, France",true
+SuyvD6CIPoM2m0n10,Aulnay-sous-Bois,93600,FR,"93600 Aulnay-sous-Bois, France",true
+Xt1wjisMKrghduRdM,Miramas,13140,FR,"Mas de la Péronne, 13140 Miramas, France",true
+BXpOEUu2oi9LV5RtE,Grenoble,38000,FR,"12 Pl. Grenette, 38000 Grenoble, France",true
+MKa9R1tDkIXi1wQu7,Paris,75009,FR,"50-56 Rue de Caumartin, 75009 Paris, France",true
+GNsONcalxyTLk6Mus,Strasbourg,67000,FR,"1 Rue du Noyer, 67000 Strasbourg, France",true
+nHc2VYwh3AiP8EyJe,Paris,75006,FR,"115 Bd Saint-Germain, 75006 Paris, France",true
+ttcY5rsPxFqo77Tyn,Levallois-Perret,92300,FR,"58 Rue Kléber, 92300 Levallois-Perret, France",true
+LHZ2OlI1AaDjeZTUK,Paris,75015,FR,"12 Rue Miollis, 75015 Paris, France",true
+JaLj70cGRqe40Lvtl,Boulogne-Billancourt,92100,FR,"15 Rue Couchot, 92100 Boulogne-Billancourt, France",true
+2WUtUGQF0TPHcsf3Q,Paris,75116,FR,"60 Av. Paul Doumer, 75116 Paris, France",true
+TImbJkn86NenL7bQa,Paris,75011,FR,"29 Rue Popincourt, 75011 Paris, France",true
+NtwC1OMCD87H7E9yS,Paris,75019,FR,"2 Pl. du Maroc, 75019 Paris, France",true
+y51tfVBffSsvcEHwL,L'Île-Saint-Denis,93450,FR,"9 Quai du Châtelier, 93450 L'Île-Saint-Denis, France",true
+OXVY2VCjI68jyA8uM,Paris,75006,FR,"53 Rue du Four, 75006 Paris, France",true
+lYr0AnZ04J9JKpkZ3,Charenton-le-Pont,94220,FR,"145 Rue de Paris, 94220 Charenton-le-Pont, France",true
+RZMn1jOtsdBSchy1G,Paris,75006,FR,"31 Rue Mazarine, 75006 Paris, France",true
+HFvP4OoPmv5Sr9ioo,Romainville,93230,FR,"1 Rue de la Résistance, 93230 Romainville, France",true
+IGu5uM3L4jVq7do3j,Paris,75001,FR,"76 Rue St Honoré, 75001 Paris, France",true
+poIaMENSWhvgXQWca,Paris,75012,FR,"11 Rue Chaligny, 75012 Paris, France",true
+vvMb2O4bUZNdrIFaj,Asnières-sur-Seine,92600,FR,"27 Rue Eugénie Eboué, 92600 Asnières-sur-Seine, France",true
+jgM5mgc0nBOAspAHx,Paris,75002,FR,"121 Bd de Sébastopol, 75002 Paris, France",true
+kIkq3Mf2fvGvS1yDQ,Craponne,69290,FR,"11 Av. Edouard Millaud, 69290 Craponne, France",true
+ZaiBYpAB63qLu36Lf,Aulnay-sous-Bois,93600,FR,"15 Av. Dumont, 93600 Aulnay-sous-Bois, France",true
+pxSkAY98VYjqqWQEv,Paris,75015,FR,"196 Rue Lecourbe 194, 75015 Paris, France",true
+bYoutA2vwAGZi7uQs,Paris,75003,FR,"16 Rue du Grenier-Saint-Lazare, 75003 Paris, France",true
+L3nhBWJp70eTURoHY,Sèvres,92310,FR,"40 Grande Rue, 92310 Sèvres, France",true
+PtHdXuHxsgSN5sToB,Givors,69700,FR,"3 Rue du Commerce, 69700 Givors, France",true
+YMHGf1IKimH95PhXR,Chamonix-Mont-Blanc,74400,FR,"31 Av. Michel Croz, 74400 Chamonix-Mont-Blanc, France",true
+1Zs62xDbVkeVduoUJ,Serris,77700,FR,"14 Cr du Danube, 77700 Serris, France",true
+E555MkSgI2joQxkVd,Villeurbanne,69100,FR,"134 Rue Dedieu, 69100 Villeurbanne, France",true
+Rjjb7crvjCFkOyb2X,Serris,77700,FR,"3 Cr de la Garonne, 77700 Serris, France",true
+MORpFBHYvJJbm9HjO,Saint-Gratien,95210,FR,"1 Rue Parmentier, 95210 Saint-Gratien, France",true
+vVLiBFV09CF1JIn7O,Les Ulis,,FR,"Rte de Montlhéry, Les Ulis, France",true
+Jkmxob5BGRJ8xWNGf,Paris,75016,FR,"11 Bd Delessert, 75016 Paris, France",true
+FNehWxVMJ1qIhavyB,Montesson,78360,FR,"Chem. de la Remise du Loup, 78360 Montesson, France",true
+EUkNi5LIrhwdlyDoG,Vélizy-Villacoublay,78140,FR,"2 Av. de l'Europe, 78140 Vélizy-Villacoublay, France",true
+5rewD7B2CmxL2csZu,Bois-Colombes,92270,FR,"46 Rue d'Estienne d'Orves, 92270 Bois-Colombes, France",true
+VkceXbBFeGKvXALNk,Levallois-Perret,92300,FR,"2 Rue Marcel Cerdan, 92300 Levallois-Perret, France",true
+tRWXJNAMFrKfkqY0Y,Lyon,69007,FR,"36 Rue de l'Université, 69007 Lyon, France",true
+bQN1TGupq97WwU4e2,Le Chesnay-Rocquencourt,78150,FR,"54 Rue Pottier, 78150 Le Chesnay-Rocquencourt, France",true
+WFws5U7kigk4SbLus,Décines-Charpieu,69150,FR,"193 Av. Jean Jaurès, 69150 Décines-Charpieu, France",true
+GjLpfc0yLfyqJBh7R,Pantin,93500,FR,"110 Av. du Général Leclerc, 93500 Pantin, France",true
+ZxxTOQLfdLIOCyiT9,Villejuif,94800,FR,"30 Av. de Stalingrad, 94800 Villejuif, France",true
+K9X1gx7QEgYkt30Vl,Paris,75010,FR,"67 Bd de la Villette, 75010 Paris, France",true
+UZP2ADpwAKR9jGOOc,Roubaix,59100,FR,"44 Rue Mail de Lannoy, 59100 Roubaix, France",true
+xCqlhQvx65XJNQW41,Puteaux,92800,FR,"15 Tun. de Nanterre-La Défense, 92800 Puteaux, France",true
+TsawRlLE6LPL7HDph,Paris,75019,FR,"154 Bd Macdonald, 75019 Paris, France",true
+Y5nTRMZKxnJWy1iyj,Le Chesnay-Rocquencourt,78150,FR,"2 Av. Charles de Gaulle, 78150 Le Chesnay-Rocquencourt, France",true
+kn3ghbub93Ue1X6X9,Marseille,13002,FR,"9 Quai du Lazaret, 13002 Marseille, France",true
+P9lKVnGRPc2hb6TIa,Lyon,69002,FR,"112 Cr Charlemagne, 69002 Lyon, France",true
+vJ78fUhB0jhEcDD9h,Bordeaux,33000,FR,"68 Rue Sainte-Catherine, 33000 Bordeaux, France",true
+temAQUhkZXbVmOrBu,Lyon,69003,FR,"114 Bd Marius Vivier Merle, 69003 Lyon, France",true
+GOajqosUUBTo6FcAg,Nice,06000,FR,"25 Av. Jean Médecin, 06000 Nice, France",true
+DKYDImXr1h6SlsoDP,Paris,75015,FR,"60 Rue Brancion, 75015 Paris, France",true
+QXQP500RxA3OPw1Vj,Corbeil-Essonnes,91100,FR,"2 Rue Jean Cocteau, 91100 Corbeil-Essonnes, France",true
+b9bpWim7RvLysA3EY,Paris,75012,FR,"65 Rue Baron le Roy, 75012 Paris, France",true
+ZMvBhje0lFxOZtxn0,Le Chesnay-Rocquencourt,78150,FR,"5 Rue de Louveciennes, 78150 Le Chesnay-Rocquencourt, France",true
+foSNotmaS7Kopabep,Saint-Herblain,44800,FR,"Bd Salvador Allende, 44800 Saint-Herblain, France",true
+y9fN5RWRjrqaLeWqM,Villefontaine,38090,FR,"38090 Villefontaine, France",true
+SVFOLMGRZjweoyS2x,Villeneuve-la-Garenne,92390,FR,"34 Av. du 8 Mai 1945, 92390 Villeneuve-la-Garenne, France",true
+hm2Amu6Ey4g1U7cQj,Franconville,95130,FR,"395 Rue du Général Leclerc, 95130 Franconville, France",true
+RlRm0jo2FANtxkKDC,Romans-sur-Isère,26100,FR,"60 Av. Gambetta, 26100 Romans-sur-Isère, France",true
+S4QFF8NKPfrhpb70h,Lille,59800,FR,"39 Pl. Rihour, 59800 Lille, France",true
+OUJIdjunBKSMecFsB,Aubergenville,78410,FR,"14 Rue de Quarante Sous, 78410 Aubergenville, France",true
+QG8jLsddIOUPgpVwX,Bordeaux,33300,FR,"71 Rue Lucien Faure, 33300 Bordeaux, France",true
+5bZwDe2BuSIYlpKki,Paris,75020,FR,"81 Rue d'Avron, 75020 Paris, France",true
+xs3kw9llbsBo3nMDA,Saint-Ouen-l'Aumône,95310,FR,"9 Rue de la Tréate, 95310 Saint-Ouen-l'Aumône, France",true
+dBIok35MguOmBdAJR,Plaisir,78370,FR,"1170 Av. de Saint-Germain, 78370 Plaisir, France",true
+yIqs2wmFGXQ1ZqI6i,Nantes,44000,FR,"20 Rue de la Marne 2, 44000 Nantes, France",true
+mwtjn2BZZQ8n0kwUL,Saint-Egrève,38120,FR,"17 Rue des Glairaux, 38120 Saint-Egrève, France",true
+HmcMi5vxFkZtUZ1YR,Saint-Ouen-l'Aumône,95310,FR,"9 Rue de la Tréate, 95310 Saint-Ouen-l'Aumône, France",true
+MiKU6x2cvUR83KAAR,Paris,75018,FR,"71 Bd Barbès, 75018 Paris, France",true
+YG2hk3lUw7u2s1qof,Paris,75011,FR,"215 Bd Voltaire, 75011 Paris, France",true
+lJ6C3ZhUYfnahTT9K,Paris,75009,FR,"6 Rue de Châteaudun, 75009 Paris, France",true
+iIjtv3cmgxhwvAubh,Arcueil,94110,FR,"64 Av. Laplace, 94110 Arcueil, France",true
+fb2wOqGRHNhAYUfSu,Paris,75011,FR,"55 Rue Richard Lenoir, 75011 Paris, France",true
+75QgBqDr9LrIeV4It,Paris,75019,FR,"1 Rue du Pré Saint-Gervais, 75019 Paris, France",true
+aUCf2CYMTdHa70Z0B,Noisy-le-Sec,93130,FR,"74 Rue de Paris, 93130 Noisy-le-Sec, France",true
+7l7ClhwXmmQxUhSGi,Aubervilliers,93300,FR,"97 Rue du Port, 93300 Aubervilliers, France",true
+tQNWhyQVRmtj9M31o,Montévrain,,FR,"Rue du Clos Rose, Montévrain, France",true
+uMlmNqmjJOfUo0cSW,Conflans-Sainte-Honorine,78700,FR,"Rue des Belles Hâtes, 78700 Conflans-Sainte-Honorine, France",true
+VgPSquw7URchGLciT,Bordeaux,33800,FR,"211 Rue Pelleport, 33800 Bordeaux, France",true
+Hc27vAyRJUrul4Rb4,Nanterre,92000,FR,"20 Rue Gambetta, 92000 Nanterre, France",true
+ApATQVCkokUWehRsA,Nanterre,92000,FR,"27 Av. des Guilleraies, 92000 Nanterre, France",true
+0U6nOciNTbVKR5Pdb,Ivry-sur-Seine,94200,FR,"29 Quai Marcel Boyer, 94200 Ivry-sur-Seine, France",true
+GCK7RONCbpvC1ki7Q,Saint-Thibault-des-Vignes,77400,FR,"11 Av. de la Courtillière, 77400 Saint-Thibault-des-Vignes, France",true
+Ze6u3WaV0H7yBvJGX,Lyon,69003,FR,"Centre Commercial Part Dieu, 17 Rue Dr Bouchut, 69003 Lyon, France",true
+b0g1hq8qTAXUDjEHs,Paris,75016,FR,"31 Quai Saint-Exupéry, 75016 Paris, France",true
+JLTxYlrA8nQSrstKh,Arcueil,94110,FR,"23 Av. Aristide Briand, 94110 Arcueil, France",true
+5smVdg68m5a9UsjVE,Paris,75009,FR,"109 Rue Saint-Lazare, 75009 Paris, France",true
+n5B6UVu9AtY297i39,Paris,75006,FR,"26 Rue du Four, 75006 Paris, France",true
+6pr79xge5iFHA2qU7,Noisy-le-Sec,93130,FR,"75 Rue du Parc, 93130 Noisy-le-Sec, France",true
+ir1bHINF6Ku6DyF3U,Pantin,93500,FR,"35 Rue Méhul, 93500 Pantin, France",true
+vf7FAAPflXrnQJlqw,Rouen,76000,FR,"14 Rue Ganterie, 76000 Rouen, France",true
+6kg583OGRdtm5qHYm,Gennevilliers,92230,FR,"112 Av. du Général de Gaulle, 92230 Gennevilliers, France",true
+IIgDHJhE3QZsWo6by,Paris,75006,FR,"144 Bd Saint-Germain, 75006 Paris, France",true
+KxFJ770ypTrq6ousr,Lyon,69003,FR,"156 Rue Garibaldi, 69003 Lyon, France",true
+PVSaT0AmiH0c5RHuM,Levallois-Perret,92300,FR,"31 Rue d'Alsace, 92300 Levallois-Perret, France",true
+rMenfhsau0SVlO3cZ,Villebon-sur-Yvette,91140,FR,"2 Av. de la Plesse, 91140 Villebon-sur-Yvette, France",true
+1aYffajLhbvk0JVbd,Puteaux,92092,FR,"15 Parvis De La Défense, 92092 Puteaux, France",true
+L8M4Cj2nan6obmGKM,Serris,77700,FR,"14 Cr du Danube, 77700 Serris, France",true
+tQmDVaPSfGGabH7mk,Bourg-la-Reine,92340,FR,"77 Av. du Général Leclerc, 92340 Bourg-la-Reine, France",true
+52JVAU0qxEIxM0fPc,Rosny-sous-Bois,93110,FR,"2 Av. du Général de Gaulle, 93110 Rosny-sous-Bois, France",true
+j41mHmbhHJD6q3aNO,Paris,75010,FR,"45 R. des Petites Écuries, 75010 Paris, France",true
+hC7wTpKxIorntlbTx,Paris,75011,FR,"166 Bd Voltaire, 75011 Paris, France",true
+EW3vSyySK4f65toOR,Saint-Denis,93200,FR,"Pass. des Arbalétriers, 93200 Saint-Denis, France",true
+MWAOq2KNJpcF9vGot,Le Mée-sur-Seine,77350,FR,"460 Av. de la Libération, 77350 Le Mée-sur-Seine, France",true
+rC4TH8GJsetDKEQu8,Paris,75008,FR,"64 Bd Haussmann, 75008 Paris, France",true
+bRRgVhQfmrhOkH56c,Templemars,59175,FR,"Rte de Vendeville, 59175 Templemars, France",true
+4dCFq8Vj2BdsljM3r,Paris,75002,FR,"43 Av. de l'Opéra, 75002 Paris, France",true
+O7NAAOuJ9Lt4tgJJ1,Vélizy-Villacoublay,78140,FR,"centre commercial vélizy 2, 2 Av. de l'Europe, 78140 Vélizy-Villacoublay, France",true
+vC52IM1NSoarKTHUT,Paris,75012,FR,"80 Av. du Dr Arnold Netter, 75012 Paris, France",true
+8GyRsmut4Yncf71KI,Villebon-sur-Yvette,91140,FR,"Centre Commercial Villebon 2, 91140 Villebon-sur-Yvette, France",true
+QrEm4fPN1scKVViA9,Paris,75004,FR,"70 Rue de Rivoli, 75004 Paris, France",true
+BABLoDyAXJIQFkGU6,Paris,75009,FR,"5 Rue Catherine de La Rochefoucauld, 75009 Paris, France",true
+GepHPy3y4tuZHgHqZ,Rillieux-la-Pape,69140,FR,"1767 Av. de l'Hippodrome, 69140 Rillieux-la-Pape, France",true
+aJZXdV16eZdxAcdHa,Levallois-Perret,92300,FR,"50 Rue Kléber, 92300 Levallois-Perret, France",true
+oeAKlwf0OLB2Z22gf,Courbevoie,92400,FR,"15 Rue Armand Silvestre, 92400 Courbevoie, France",true
+US5ZMKdSrhmSwiMRW,Paris,75002,FR,"124 Rue Réaumur, 75002 Paris, France",true
+WIrECGq8umgBLIy8L,Bordeaux,33000,FR,"52 Rue Georges Bonnac, 33000 Bordeaux, France",true
+eiKlLxkrQaMWGUnIx,Paris,75004,FR,"36 Rue de la Verrerie, 75004 Paris, France",true
+EKmVNwlmY2IPkPZuy,Paris,75009,FR,"64 Bd Haussmann, 75009 Paris, France",true
+oIWkBhgnliciHM2ls,Paris,75013,FR,"27 Rue de la Vistule, 75013 Paris, France",true
+KjoAoBbLO8PFEharp,Bègles,33130,FR,"3004 Rue Denis Papin, 33130 Bègles, France",true
+aCXBCx6fY5t9DgXka,Paris,75012,FR,"23 Rue des Pirogues de Bercy, 75012 Paris, France",true
+8ekwu4Y79rVGrAXOI,Paris,75008,FR,"85 Bd Haussmann, 75008 Paris, France",true
+9EFuXbhtZt0k1Zkwj,Paris,75004,FR,"139 Rue Saint-Martin, 75004 Paris, France",true
+xpHQZY8AMmNbfldLS,Boulogne-Billancourt,92100,FR,"185 Bd Jean Jaurès, 92100 Boulogne-Billancourt, France",true
+IxhMIwiWuMDsTnGpx,Paris,75019,FR,"40 Av. de Flandre, 75019 Paris, France",true
+T8tqjFArTHr8JqFcM,Bonneuil-sur-Marne,94380,FR,"1 Av. du Bicentenaire 1789-1989, 94380 Bonneuil-sur-Marne, France",true
+i1VDVmi5iZJ9M0f0y,Paris,75009,FR,"64 Bd Haussmann, 75009 Paris, France",true
+mS0eBoeHGrsRH3lTp,Saint-Grégoire,35760,FR,"Rte Saint-Malo, 35760 Saint-Grégoire, France",true
+YE68ishRThcPadGjV,Paris,75011,FR,"168 Rue Saint-Maur, 75011 Paris, France",true
+6YTjhvSDexZRYiqfg,Levallois-Perret,92300,FR,"24 Rue Jacques Ibert, 92300 Levallois-Perret, France",true
+fWAu4ybNwOfKwVg47,Nantes,44000,FR,"18 Rue Baron, 44000 Nantes, France",true
+PrnBCpuaJ520O2SEJ,Paris,75009,FR,"19 Rue Blanche, 75009 Paris, France",true
+0GLxCMk7SDacRl1Z1,Issy-les-Moulineaux,92130,FR,"51 Rue du Général Leclerc, 92130 Issy-les-Moulineaux, France",true
+4RBhC3tIrkAr1OnH2,Paris,75003,FR,"35 Rue de Poitou, 75003 Paris, France",true
+4exFJS3aS3cX0e7vt,Neuilly-sur-Seine,92200,FR,"27 Rue des Poissonniers, 92200 Neuilly-sur-Seine, France",true
+fRdctVA0EpZF6DZia,Bagnolet,93170,FR,"228 Rue Etienne Marcel, 93170 Bagnolet, France",true
+RbLPsc8stKoYfaxfM,Paris,75009,FR,"7 Rue de Châteaudun, 75009 Paris, France",true
+gxQdnxXlpJa3dCfc7,Paris,75009,FR,"7 Bd Haussmann, 75009 Paris, France",true
+wRTcbLdJq73DVMmDQ,Paris,75011,FR,"54 Bd du Temple, 75011 Paris, France",true
+xGHM9ahO2qvGnA8xB,Paris,75009,FR,"64 Bd Haussmann, 75009 Paris, France",true
+SL8YlYsQBD2eWDw0o,Marseille,13001,FR,"42 Rue Francis Davso, 13001 Marseille, France",true
+pQorXUwByaQjOdbEH,Lieusaint,77127,FR,"Trait d'Union, 77127 Lieusaint, France",true
+fkEfaNZNwY0OFHp0Q,Le Kremlin-Bicêtre,94270,FR,"55-69 Av. de Fontainebleau, 94270 Le Kremlin-Bicêtre, France",true
+XCvXOu39iMsOAZeDk,Paris,75009,FR,"40 Bd Haussmann, 75009 Paris, France",true
+62RNWCZIM7fZuEO9M,Roppenheim,67480,FR,"1 Rte de l'Europe, 67480 Roppenheim, France",true
+gBCXd29aGXN5JR7vc,Bagnolet,93170,FR,"28 Av. du Général de Gaulle, 93170 Bagnolet, France",true
+n5JyL11HXXWCvHs8n,Paris,75009,FR,"40 Bd Haussmann, 75009 Paris, France",true
+nD1dt2i1VVksY0FcJ,Paris,75004,FR,"42 Rue de la Verrerie, 75004 Paris, France",true
+NwdB3pnG2xlAQ9nQY,Aulnay-sous-Bois,93600,FR,"89 Rue Auguste Renoir, 93600 Aulnay-sous-Bois, France",true
+YtMxrYE92D30XIhVn,Paris,75009,FR,"40 Bd Haussmann, 75009 Paris, France",true
+E5lbCiLISbeXnCUac,Paris,75009,FR,"20B Rue La Fayette, 75009 Paris, France",true
+hCO7JTCH0TWFSv3YL,Bordeaux,33300,FR,"123 Rue Lucien Faure, 33300 Bordeaux, France",true
+vE9jhJCv6P49UIZxj,Nogent-sur-Marne,94130,FR,"14 Bd de Strasbourg, 94130 Nogent-sur-Marne, France",true
+uBfugMTPKnjbsrcZx,Lyon,69006,FR,"16 Rue Cuvier, 69006 Lyon, France",true
+TWIeytIgTMlrNWbLv,Paris,75009,FR,"48 Bd Haussmann, 75009 Paris, France",true
+MC0HQTR5IRHGfNkj0,Serris,77700,FR,"3 Cr de la Garonne, 77700 Serris, France",true
+iEeD8iknpHuRbHi0j,Paris,75015,FR,"57 Rue du Commerce, 75015 Paris, France",true
+447o5oJFvdXoyiNvD,Puteaux,92800,FR,"Parv. de l'arche, 92800 Puteaux, France",true
+4uwkEaC9b2Am4AUJF,Paris,75002,FR,"29 Rue du Louvre, 75002 Paris, France",true
+TV1OKiT1RuaH78rri,Versailles,78000,FR,"19 All. des Marronniers, 78000 Versailles, France",true
+8oPaFJ9uJDUqn8fJY,Paris,75009,FR,"40 Bd Haussmann, 75009 Paris, France",true
+xDYLm0BNukVm7yx5F,Clichy-sous-Bois,93390,FR,"12 All. de la Fossé Maussoin, 93390 Clichy-sous-Bois, France",true
+mkdZKvBk48PL9v9oA,Lille,59000,FR,"45 Rue Nationale 39, 59000 Lille, France",true
+OJePi8jWJGjcqCMXn,Cergy,95000,FR,"Rue de la Croix des Maheux, 95000 Cergy, France",true
+QPTEsE6EgXC0bLSJ0,Paris,75001,FR,"101 Rue Berger, 75001 Paris, France",true
+CLmLUTira9iPSE1Vo,Bordeaux,33300,FR,"123 Rue Lucien Faure, 33300 Bordeaux, France",true
+ZmDGgZLhkiPNxQ5Zu,Vélizy-Villacoublay,78140,FR,"2 Av. de l'Europe, 78140 Vélizy-Villacoublay, France",true
+CDHW8q8dJILoptGHG,Levallois-Perret,92300,FR,"45 Rue Trébois, 92300 Levallois-Perret, France",true
+jZbVUEBD8i3bbSOIx,Pantin,93500,FR,"110 bis Av. du Général Leclerc, 93500 Pantin, France",true
+7ELxLHj9OPHcXwidO,Arcueil,94110,FR,"Pl. de la Vache Noire, 94110 Arcueil, France",true
+pjymAOsW9pr59vXhB,Taverny,95150,FR,"Rue Théroigne de Méricourt, 95150 Taverny, France",true
+QGUqFLfOSu1gdNuHH,Bordeaux,33300,FR,"110 Rue Achard, 33300 Bordeaux, France",true
+g2OLZAkBbwF08jfrC,Caen,14000,FR,"Rue Paul Doumer, 14000 Caen, France",true
+brcOietVHAQRbWChk,Châtillon,92320,FR,"29 Bd de Vanves, 92320 Châtillon, France",true
+FPvfTvbcbjEQT9lro,Plaisir,78370,FR,"1170 Av. de Saint-Germain, 78370 Plaisir, France",true
+54MDiK3LTcmGsG2TN,Paris,75001,FR,"15 Rue Jean-Jacques Rousseau, 75001 Paris, France",true
+pD0U0KBEqiO26A3XE,Thiais,94320,FR,"Rue du Luxembourg, 94320 Thiais, France",true
+eArfj0NpHo9ilLAw7,Cannes,06400,FR,"60 Rue d'Antibes, 06400 Cannes, France",true
+4nLYj9PBhe9QFbmty,Suresnes,92150,FR,"25 Av. Edouard Vaillant, 92150 Suresnes, France",true
+Zh8OPHE1SMHacHsFu,Wissous,91320,FR,"7 Rue des Pyrénées, 91320 Wissous, France",true
+TdVpxJ01Q7tk04CxS,Bussy-Saint-Georges,77600,FR,"14 Av. de l'Europe, 77600 Bussy-Saint-Georges, France",true
+RATTwfQubC4cwQA7H,Soorts-Hossegor,40150,FR,"596 Av. du Touring Club, 40150 Soorts-Hossegor, France",true
+CteYkq71XMje03IAH,Fontenay-Trésigny,77610,FR,"7 Rue Margueritte Perey, 77610 Fontenay-Trésigny, France",true
+HwsHps3gsTfE9FgXl,Aubervilliers,93300,FR,"43 Av. Victor Hugo, 93300 Aubervilliers, France",true
+p0c79kBaBkt0wXpx5,Paris,75015,FR,"20 Rue de l'Église, 75015 Paris, France",true
+BbHXjDjD9WqSKBTUV,Paris,75017,FR,"60 Rue Boursault, 75017 Paris, France",true
+gcUSYkPQYtvAqK2p8,Marseille,13014,FR,"162 Bd Danielle Casanova, 13014 Marseille, France",true
+52oVkFdJRUedXKsX5,Aubervilliers,93300,FR,"43 Av. Victor Hugo, 93300 Aubervilliers, France",true
+BNxs6b2VreDwSl25t,Paris,75020,FR,"20 Rue de Ménilmontant, 75020 Paris, France",true
+nIQAu2ltrnUCsd2qL,Toulouse,31000,FR,"8 Rue Lapeyrouse 4, 31000 Toulouse, France",true
+wnNBXp0Hx9JNSGoJr,Nanterre,92000,FR,"15 Rue du Port, 92000 Nanterre, France",true
+s1Xv7rkjYWAlLOHSV,Rungis,94550,FR,"7 Bd du Delta, 94550 Rungis, France",true
+sIZmopM2VaJLGr2B2,Sucy-en-Brie,94370,FR,"22 Rue Magellan, 94370 Sucy-en-Brie, France",true
+2MlM3EM9wlRFYM03O,Puteaux,92800,FR,"Parv. de l'arche, 92800 Puteaux, France",true
+PjhatOQtQXHQNB3I9,Puteaux,92800,FR,"Parv. de l'arche, 92800 Puteaux, France",true
+dSltwjv2xyVXfEIgs,Mundolsheim,67450,FR,"RN 63, 67450 Mundolsheim, France",true
+dBBBVJ9u5mXhlTQ70,Bordeaux,33300,FR,"123 Rue Lucien Faure, 33300 Bordeaux, France",true
+vFtaHljvj9ZwElxgD,Grenoble,38000,FR,"111 Cr Jean Jaurès, 38000 Grenoble, France",true
+vU9aemEkaT5olVGIQ,Paris,75012,FR,"65 Rue Baron le Roy, 75012 Paris, France",true
+6dh1A8TLc03U3VZro,Aix-en-Provence,13100,FR,"4 Rue des Bœufs, 13100 Aix-en-Provence, France",true
+OJZ2m2dI9GvkMm7Ri,Vénissieux,69200,FR,"9004 All. des Savoies, 69200 Vénissieux, France",true
+eZWxsdEcGeIgD9bYP,Aubervilliers,93300,FR,"43 Av. Victor Hugo, 93300 Aubervilliers, France",true
+IF96lSo371PkU5VGF,Paris,75009,FR,"6 Rue Auber, 75009 Paris, France",true
+LPB2KUtpxX1wKrxwR,Montigny-lès-Cormeilles,95370,FR,"39 Bd Victor Bordier, 95370 Montigny-lès-Cormeilles, France",true
+dmMIlnUtFWsUkA9ZN,Paris,75009,FR,"64 Bd Haussmann, 75009 Paris, France",true
+Dmej4fqdLsoKwJGrZ,Paris,75004,FR,"32 Rue Saint-Antoine, 75004 Paris, France",true
+qW2yJuQfeL4KCK9Oo,Paris,75009,FR,"40 Bd Haussmann, 75009 Paris, France",true
+PphnBSJn9EqONdHPk,Lyon,69003,FR,"74 Rue de Bonnel, 69003 Lyon, France",true
+Jr2OyBqWsJVW0yUgM,Le Blanc-Mesnil,93150,FR,"192 Av. Charles Floquet, 93150 Le Blanc-Mesnil, France",true
+9q53ia2GXIdwyRIdu,Bordeaux,33300,FR,"123 Rue Lucien Faure, 33300 Bordeaux, France",true
+DoaxovkG7c12G521s,Les Clayes-sous-Bois,78340,FR,"80 Av. Henri Barbusse, 78340 Les Clayes-sous-Bois, France",true
+rPMQ4ew6X5xHSXxKO,Paris,92230,FR,"5 Rue Olympe de Gouges, 92230 Paris, France",true
+TLW1V7203pBV2FsFA,Paris,75011,FR,"6 Rue St Sabin, 75011 Paris, France",true
+Ucj3XlqI0qUrkDI7Y,Annecy,74000,FR,"Av. du Parmelan, 74000 Annecy, France",true
+EGAagZvEv24UQYkLM,Poissy,78300,FR,"79 Rue du Général de Gaulle, 78300 Poissy, France",true
+4xdHCRhhnx5WaUReC,Caen,14000,FR,"Centre Commercial Paul Doumer, Rue de Bras, 14000 Caen, France",true
+xDM0NAD7j6ENbauU7,Herblay-sur-Seine,95220,FR,"2 Rue René Cassin, 95220 Herblay-sur-Seine, France",true
+xBKIodU8oWuZ1uWjO,Tours,37000,FR,"17 Bd Heurteloup, 37000 Tours, France",true
+PfkTXWDFVNeTdNndw,Paris,75017,FR,"255 Bd Pereire, 75017 Paris, France",true
+CKMSYwyLlXIJdc43c,Melun,,FR,"Chp de Foire, Melun, France",true
+PvKOch6Z8b51K7b19,Nice,06000,FR,"6 Av. Jean Médecin, 06000 Nice, France",true
+9SIYYxixGBCwcqCqx,Saint-Laurent-du-Var,06700,FR,"Av. Eugène Donadeï, 06700 Saint-Laurent-du-Var, France",true
+IBGLoEXmi73BfDbPa,Lyon,69003,FR,"42 Bd Eugène Deruelle, 69003 Lyon, France",true
+OcOOiJhw69bk1dpD2,Villefontaine,38090,FR,"Parc du, Chem. du Couvent, 38090 Villefontaine, France",true
+fXCYytxk8gth6TZpm,Paris,75009,FR,"40 Bd Haussmann, 75009 Paris, France",true
+uKPt2mU9lpcSpBTVv,Paris,75009,FR,"48 Bd Haussmann, 75009 Paris, France",true
+vogDH7ggQo7fuMEqA,Serris,77700,FR,"3 Cr de la Garonne, 77700 Serris, France",true
+G20dLnPvdWKEot5lt,Paris,75011,FR,"6 Rue St Sabin, 75011 Paris, France",true
+nVHUS7WhY4RnXRmZk,Bègles,33130,FR,"Rue des Frères Lumière, 33130 Bègles, France",true
+7YBYgZ3OjoSMxgoXb,Paris,75018,FR,"199 Rue Championnet, 75018 Paris, France",true
+RuV1PvxAqnUY3GdLP,Paris,75012,FR,"16 Cr Saint-Emilion, 75012 Paris, France",true
+Ga7GUfcmsBtsXyTiX,Paris,75008,FR,"10 Rue Treilhard, 75008 Paris, France",true
+YefR0VK5Xan0ync3S,Paris,75017,FR,"45 Av. de Clichy 43, 75017 Paris, France",true
+tNMyxc0nVjQy1sVot,Argenteuil,95100,FR,"50 Av. du Marechal Foch, 95100 Argenteuil, France",true
+urYkS2wGQFeB6QaGj,Lyon,69003,FR,"107 Bd Marius Vivier Merle, 69003 Lyon, France",true
+6y4X9ErEFxcodcSh0,Saint-Grégoire,35760,FR,"route De Saint Malo, Centre Commercial Grand Quartier, 35760 Saint-Grégoire, France",true
+OEfQqsu84qpqdKQWS,Paris,75003,FR,"66 Rue des Archives, 75003 Paris, France",true
+ar1Fn0YECxpg0BOLR,Paris,75002,FR,"17-21 Rue Saint-Fiacre, 75002 Paris, France",true
+6mXW5AoDJiljei2Nc,Marseille,13010,FR,"44 Bd Fifi Turin, 13010 Marseille, France",true
+2IDqX8Xjrw9wZYML0,Villeurbanne,69100,FR,"208 Av. Roger Salengro, 69100 Villeurbanne, France",true
+WeMOuGF0rZJZYRO4X,Levallois-Perret,92300,FR,"31 rue d'alsace ccial so ouest porte victor hugo, niveau -1, 92300 Levallois-Perret, France",true
+cEOh3rhxrg9nw98Vt,Paris,75004,FR,"52 Rue de Rivoli, 75004 Paris, France",true
+u9BfoEmwpOip7OgBd,Serris,77700,FR,"3 Cr de la Garonne, 77700 Serris, France",true
+kOMcedwgANivab5M3,Paris,75003,FR,"90 Rue Notre Dame de Nazareth, 75003 Paris, France",true
+FdSchvbGH5nUHJOsT,Issy-les-Moulineaux,92130,FR,"1 Rue du Colonel Pierre Avia, 92130 Issy-les-Moulineaux, France",true
+WpLY3EIBoIF49008M,Paris,75008,FR,"60 Rue de Monceau, 75008 Paris, France",true
+TVf90cA0yYRhmSHok,Gonesse,95500,FR,"2 Rue de la Belle Étoile, 95500 Gonesse, France",true
+RCBdPI6qMnQeX30L2,Bagneux,92220,FR,"5 All. du Parc de Garlande, 92220 Bagneux, France",true
+WQfYF0nwcQN5IAmtR,Paris,75008,FR,"3 Rue d'Édimbourg, 75008 Paris, France",true
+aSaISDxJLJE0BXI1k,Gennevilliers,92230,FR,"92230 Gennevilliers, France",true
+S0gOOjLH0jKRdyyTJ,Paris,75001,FR,"8 Rue Montmartre, 75001 Paris, France",true
+CslnAfFoqcXhw3UGH,Marseille,13011,FR,"Rte de la Sablière, 13011 Marseille, France",true
+35vcP6YqNHZqxtN6S,Paris,75011,FR,"1 Bis Av. de la République, 75011 Paris, France",true
+FUwssaEJ7IJt5Nv6u,Rungis,94150,FR,"29 Pl. de la Seine, 94150 Rungis, France",true
+hJLpEZ2wkqbFEuAPM,Vigneux-sur-Seine,,FR,"Rue de la Longueraie, Vigneux-sur-Seine, France",true
+vqRag3ecPEhKulNqy,Villebon-sur-Yvette,91140,FR,"Av. d'Islande, 91140 Villebon-sur-Yvette, France",true
+MW3v4nv9dPaHfcZcv,Villebon-sur-Yvette,91140,FR,"Av. de la Plesse, 91140 Villebon-sur-Yvette, France",true
+eynDaSFsB9GUhuDT2,Paris,75008,FR,"64 Bd Haussmann, 75008 Paris, France",true
+019weGX7y2HMG7lbg,Paris,,FR,"Paris, France",true
+FyvKnbBpyyk1vmCEb,Wissous,91320,FR,"18 Bd Arago, 91320 Wissous, France",true
+np32RMMWQWtDpyKPF,Paris,75009,FR,"40 Bd Haussmann, 75009 Paris, France",true
+x9qlSMVV5j8DB45O3,Antibes,06160,FR,"122 Bd du Président Wilson, 06160 Antibes, France",true
+JtxPN2vbHxIgZ9NsU,Paris,75012,FR,"40 Av. des Terroirs de France, 75012 Paris, France",true
+XLZVXPkpxnysOOUWb,Paris,,FR,"Paris, France",true
+HmqwUtJbNa7JO84jC,Paris,75009,FR,"71 Rue de Provence, 75009 Paris, France",true
+YyjE0sTJq4LIPf5lQ,Pantin,93500,FR,"210 Av. du Général Leclerc, 93500 Pantin, France",true
+RlDWxoEenS9DKnO0h,Saint-Ouen,93400,FR,"14 Rue Palouzié, 93400 Saint-Ouen, France",true
+je0jXvyHsNehmNWoO,Beauvais,60000,FR,"Av. Descartes, 60000 Beauvais, France",true
+6wJXmQbeaxXE3Cl7k,Bordeaux,33000,FR,"77 Cr d'Albret, 33000 Bordeaux, France",true
+w11r9jIXRJdta7l96,Paris,75001,FR,"Rue Berger, 75001 Paris, France",true
+Smnry3fNL3ThVaRbD,Paris,75007,FR,"19 Rue Cognacq Jay, 75007 Paris, France",true
+f073d8q6FAGcjLG6l,Lille,59800,FR,"21 Rue de la Grande Chaussée, 59800 Lille, France",true
+AOXljvwfhSQ7uZONJ,Marseille,13002,FR,"9 Quai du Lazaret, 13002 Marseille, France",true
+t2CRjDEubS6rQcvMd,Paris,75009,FR,"40 Bd Haussmann, 75009 Paris, France",true
+JaRVLvK3UHVbGTTMP,Pont-Sainte-Marie,10150,FR,"Voie du Bois, 10150 Pont-Sainte-Marie, France",true
+y2aQxDvCe4itJEEpv,Courbevoie,92400,FR,"13 Rue Latérale, 92400 Courbevoie, France",true
+UlNU0AXV1FoWtxSjo,Bagnolet,93170,FR,"47 Rue Charles Delescluze, 93170 Bagnolet, France",true
+iN3xK5dB0jskfZkAr,Bordeaux,33000,FR,"Rue Sainte-Catherine, 33000 Bordeaux, France",true
+vOKxRkmoY4oh7FERZ,Bourg-Beaudouin,27380,FR,"27380 Bourg-Beaudouin, France",true
+OelG04sCubCEPWUV5,La Courneuve,93120,FR,"139 Rue Rateau, 93120 La Courneuve, France",true
+1U0tZTNAhF6wZu26g,Paris,75009,FR,"64 Bd Haussmann, 75009 Paris, France",true
+6vSjTUfGfLGI7mZ8T,Gennevilliers,92230,FR,"21 Rte Principale du Port, 92230 Gennevilliers, France",true
+ZRTA6udIDvos40NSX,Boulogne-Billancourt,92100,FR,"71 Rue du Château, 92100 Boulogne-Billancourt, France",true
+i0lCRQFF0ED3QbxXK,Clichy,92110,FR,"5 Rue du 8 Mai 1945, 92110 Clichy, France",true
+hYKkddtbVIL3ym88M,Carrières-sous-Poissy,78955,FR,"Rte d'Andrésy, 78955 Carrières-sous-Poissy, France",true
+1MtVDOWnlECp8J0IJ,Paris,75004,FR,"52 Rue de Rivoli, 75004 Paris, France",true
+eHAUk8VUbwQcQsrI8,Le Chesnay-Rocquencourt,78150,FR,"2 Av. Charles de Gaulle, 78150 Le Chesnay-Rocquencourt, France",true
+AHReHLv790LUrMCPP,Nantes,44000,FR,"2-20 Rue de la Marne, 44000 Nantes, France",true
+ExX8MwdXo1yRsmITq,Collégien,77090,FR,"Rue du Général de Gaulle, 77090 Collégien, France",true
+sEBCmkNVovSBeC9cj,Paris,75004,FR,"BHV, 52 Rue de Rivoli, 75004 Paris, France",true
+PKxDN1BoMbARBqrqH,Paris,75009,FR,"104 Rue de Provence, 75009 Paris, France",true
+7HV1LUPrCJp1TMGyb,Paris,75008,FR,"16 Rue Vernet, 75008 Paris, France",true
+f2OT0mY4ttXwnVpQ7,Paris,75004,FR,"52 Rue de Rivoli, 75004 Paris, France",true
+rppTob7NZsrkRCLhQ,Paris,75009,FR,"50 Bd Haussmann, 75009 Paris, France",true
+IbV9IgwYbbrhF8P8G,Dijon,21000,FR,"41-49 Rue de la Liberté, 21000 Dijon, France",true
+iJWM33YjLSvWwEDWW,Saint-Ouen,93400,FR,"93400 Saint-Ouen, France",true
+ObH6URPfKf0KbHCml,Paris,75009,FR,"6 Rue Auber, 75009 Paris, France",true
+cfWYrQ7XwleHiHkoy,Strasbourg,67200,FR,"55 Rue du Marché Gare, 67200 Strasbourg, France",true
+En5isAUnB05iQAUZS,Dammarie-les-Lys,77190,FR,"350 Av. André Ampère, 77190 Dammarie-les-Lys, France",true
+SVAj3qwhp1eAFsfw1,Cormeilles-en-Parisis,95240,FR,"14 Rue Georges Méliès, 95240 Cormeilles-en-Parisis, France",true
+KFwTPj7ZTC6M9xvK6,Lyon,69003,FR,"133 Rue Servient, 69003 Lyon, France",true
+L3Ib0e9QshCLL06qY,Paris,75006,FR,"20 Rue du Vieux Colombier, 75006 Paris, France",true
+ld8pcKRmcKxQLtABo,Rosny-sous-Bois,93110,FR,"2 Av. du Général de Gaulle, 93110 Rosny-sous-Bois, France",true
+M6J4xKNeWBJdpLnBV,Rosny-sous-Bois,93117,FR,"Av. du Général de Gaulle, 93117 Rosny-sous-Bois, France",true
+xOfKflLuaGDDAxdD4,Roppenheim,67480,FR,"1 Rte de l'Europe, 67480 Roppenheim, France",true
+Wa2umR2PO986BBbh1,Paris,75011,FR,"33 Av. de la République, 75011 Paris, France",true
+iBjuJwWDxGr24wm30,Paris,75009,FR,"64 Bd Haussmann, 75009 Paris, France",true
+vGsIZ8AgSZ0VDkNEj,Paris,,FR,"Rue Saint-Denis, Paris, France",true
+ECDbTCHREa63t2Z7L,Bordeaux,33000,FR,"12-14 Rue de la Prte Dijeaux, 33000 Bordeaux, France",true
+02fBhs56isE5Q1Bnx,Paris,75013,FR,"28 Av. d'Italie, 75013 Paris, France",true
+oPa93cFHhjCd7VwNL,Paris,75013,FR,"23 Av. d'Italie, 75013 Paris, France",true
+xtvG6d6gBAd6xrVGv,Clichy,92110,FR,"48 Rue Médéric, 92110 Clichy, France",true
+7khRNPSFjcN5wxpaV,Bordeaux,33000,FR,"40 Cr de l'Intendance, 33000 Bordeaux, France",true
+JrmuQFq99gJSJ8VvS,Paris,75009,FR,"16 Rue Pierre Fontaine, 75009 Paris, France",true
+gc6HdosKSFwlNDdFu,Hyères,83400,FR,"4337 Rte de Giens, 83400 Hyères, France",true
+VtidKP5DCLONXuTSn,Paris,75005,FR,"13 Rue Santeuil, 75005 Paris, France",true
+QyP7C9OCGjnkhHD5q,Paris,75008,FR,"64 Bd Haussmann, 75008 Paris, France",true
+7yhSeIXLa5xK4kGUD,Paris,75018,FR,"35 Bd Ney, 75018 Paris, France",true
+vD9gptyvVZAyTSq1F,Avignon,,FR,"Av. de la Croix Rouge, Avignon, France",true
+Knm8Xu6ky1c5SVSCM,Toulouse,31000,FR,"8 Rue Lapeyrouse 4, 31000 Toulouse, France",true
+d1YC8yVxI6Oee8GlJ,Créteil,94000,FR,"Centre Commercial Régional Créteil-Soleil, 94000 Créteil, France",true
+jfGxIyMqW4mpuiGEj,Le Bourget,93350,FR,"53 Av. Jean Jaurès, 93350 Le Bourget, France",true
+tPo2eHlpHLiVVsIMR,Paris,75010,FR,"128 Rue du Faubourg Saint-Martin, 75010 Paris, France",true
+4rbnHmFWXRM9UVIgm,Paris,75008,FR,"128 Rue du Faubourg Saint-Honoré, 75008 Paris, France",true
+XPLuy520ADAjPtuEN,Pantin,93500,FR,"Av. du Général Leclerc, 93500 Pantin, France",true
+FqRVdqoyh0dUkqlV5,Paris,75013,FR,"Pl. de Vénétie, 75013 Paris, France",true
+wB9ZxGfYODJxsfLrK,Paris,75010,FR,"9 Rue Léon Jouhaux, 75010 Paris, France",true
+MFZkUvq6JFdKBikDe,Sainte-Geneviève-des-Bois,91700,FR,"Zac De La Croix Blanche, 20-22 Av. de la Croix Blanche, 91700 Sainte-Geneviève-des-Bois, France",true
+5cxV7Sp60LkJqqqAO,Bordeaux,33300,FR,"170 Cr du Médoc, 33300 Bordeaux, France",true
+bcpGjyIWbwsLNu53d,Orly,94310,FR,"3 Rue des 15 Arpents, 94310 Orly, France",true
+CDDSlsRcpxsBfIi7P,Saint-Laurent-du-Var,06700,FR,"Av. Eugène Donadeï, 06700 Saint-Laurent-du-Var, France",true
+Tr1hI6e9XtJ8MgiXb,Saint-Ouen,93400,FR,"29 Rue du Dr Babinski, 93400 Saint-Ouen, France",true
+O2RcZVmd5vRfVGcah,Faches-Thumesnil,59155,FR,"Rue de l'Égalité, 59155 Faches-Thumesnil, France",true
+RbrV5gx3IlPrU02Rt,Savigny-sur-Orge,91600,FR,"18 Rue de Morsang, 91600 Savigny-sur-Orge, France",true
+u0KYqGA4CB9P1J6RC,Nantes,44000,FR,"16/18 Rue d'Orléans, 44000 Nantes, France",true
+GitkSdBTwFDWeiYpb,Paris,77127,FR,"3 All. du Préambule, 77127 Paris, France",true
+OSfSFYu3qEUdlwgUG,Lille,59000,FR,"45 Rue Nationale 39, 59000 Lille, France",true
+Q44UYtwiwkkqW4vub,Paris,75018,FR,"23 Av. Junot Pavillon D, 75018 Paris, France",true
+jt5ABf5vmRVow4H62,Bron,69500,FR,"209 Bd Pinel, 69500 Bron, France",true
+XN7aXUjASEUbGy0v3,Massy,91300,FR,"16 Mail Atlantis, 91300 Massy, France",true
+,,,,,
