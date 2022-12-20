@@ -1,5 +1,13 @@
+To convert my notebook to a markdown format, I used nbconvert: 
+
+<li>pip install pyppeteer
+<li>pip install nbconvert
+<li>jupyter nbconvert .\README.ipynb --to markdown
+
 # DATA-ENGINEER-TECHNICAL-TEST Side
 
+
+Here is the test https://github.com/IDRIMalek/data-engineer-side-project/blob/master/Technical_test_-_Data_Engineer.pdf 
 
 ### Read and understand the data you’ve been given
 
@@ -35,13 +43,11 @@
 
 ```python
 import pandas as pd
-import chardet
-
 ```
 
 
 ```python
-df_sider_availabilities = pd.read_csv('data\sider_availabilities.csv',  delimiter=';')
+df_sider_availabilities = pd.read_csv('..\data\sider_availabilities.csv',  delimiter=';')
 ```
 
 
@@ -215,7 +221,7 @@ df_sider_availabilities.duplicated().sum()
 
 
 ```python
-df_task_locations = pd.read_csv('data\\task_locations.csv',  delimiter=',')
+df_task_locations = pd.read_csv('..\data\\task_locations.csv',  delimiter=',')
 ```
 
 
@@ -446,28 +452,49 @@ Adding Latitide and longitude with the help of https://adresse.data.gouv.fr/api-
 
 
 ```python
-!curl.exe POST -F data=@data\task_locations.csv -F postcode=postal_code   https://api-adresse.data.gouv.fr/search/csv/ > data/result.csv
+!curl.exe POST -F data=@..\data\task_locations.csv -F postcode=postal_code   https://api-adresse.data.gouv.fr/search/csv/ > ..\data/result.csv
 ```
 
       % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                      Dload  Upload   Total   Spent    Left  Speed
     
-      0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0curl: (6) Could not resolve host: POST
-      % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                     Dload  Upload   Total   Spent    Left  Speed
+      0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+      0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0curl: (6) Could not resolve host: POST
     
       0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
-      0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
-    100   432  100    57  100   375    417   2745 --:--:-- --:--:-- --:--:--  3176
+    100 35799    0     0  100 35799      0  35799  0:00:01  0:00:01 --:--:-- 30159
+    100 51921    0 16122  100 35799   8061  17899  0:00:02  0:00:02 --:--:-- 24618
+    100 84650    0 48851  100 35799  24425  17899  0:00:02  0:00:02 --:--:-- 28511
+    100   98k    0 65220  100 35799  16305   8949  0:00:04  0:00:04 --:--:-- 25254
+    100  138k    0  104k  100 35799  26632   8949  0:00:04  0:00:04 --:--:-- 33246
     
 
 
 ```python
+%pip install chardet
+```
 
-with open('data\\result.csv', 'rb') as f:
+    Collecting chardet
+      Downloading chardet-5.1.0-py3-none-any.whl (199 kB)
+    Installing collected packages: chardet
+    Successfully installed chardet-5.1.0
+    Note: you may need to restart the kernel to use updated packages.
+    
+
+      WARNING: The script chardetect.exe is installed in 'C:\Users\idrim\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\Scripts' which is not on PATH.
+      Consider adding this directory to PATH or, if you prefer to suppress this warning, use --no-warn-script-location.
+    WARNING: You are using pip version 21.3.1; however, version 22.3.1 is available.
+    You should consider upgrading via the 'C:\Users\idrim\AppData\Local\Microsoft\WindowsApps\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\python.exe -m pip install --upgrade pip' command.
+    
+
+
+```python
+import chardet
+
+with open('..\\data\\result.csv', 'rb') as f:
     enc = chardet.detect(f.read())  
 
-df_task_locations_coordonates=pd.read_csv('data\\result.csv', encoding = enc['encoding'])
+df_task_locations_coordonates=pd.read_csv('..\\data\\result.csv', encoding = enc['encoding'])
 ```
 
 Second way to fetch data with python
@@ -475,10 +502,36 @@ Second way to fetch data with python
 
 
 ```python
+%pip install requests
+```
+
+    Collecting requests
+      Using cached requests-2.28.1-py3-none-any.whl (62 kB)
+    Collecting charset-normalizer<3,>=2
+      Using cached charset_normalizer-2.1.1-py3-none-any.whl (39 kB)
+    Collecting idna<4,>=2.5
+      Using cached idna-3.4-py3-none-any.whl (61 kB)
+    Collecting certifi>=2017.4.17
+      Using cached certifi-2022.12.7-py3-none-any.whl (155 kB)
+    Collecting urllib3<1.27,>=1.21.1
+      Using cached urllib3-1.26.13-py2.py3-none-any.whl (140 kB)
+    Installing collected packages: urllib3, idna, charset-normalizer, certifi, requests
+    Successfully installed certifi-2022.12.7 charset-normalizer-2.1.1 idna-3.4 requests-2.28.1 urllib3-1.26.13
+    Note: you may need to restart the kernel to use updated packages.
+    
+
+      WARNING: The script normalizer.exe is installed in 'C:\Users\idrim\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\Scripts' which is not on PATH.
+      Consider adding this directory to PATH or, if you prefer to suppress this warning, use --no-warn-script-location.
+    WARNING: You are using pip version 21.3.1; however, version 22.3.1 is available.
+    You should consider upgrading via the 'C:\Users\idrim\AppData\Local\Microsoft\WindowsApps\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\python.exe -m pip install --upgrade pip' command.
+    
+
+
+```python
 import requests
 import io
 
-with open('data\\task_locations.csv', 'rb') as fd: 
+with open('..\\data\\task_locations.csv', 'rb') as fd: 
     payload = fd.read() 
 arguments= {'postcode':'postal_code'}
 r = requests.post("https://api-adresse.data.gouv.fr/search/csv/" ,  params=arguments, files={'data':payload})
@@ -678,7 +731,7 @@ df_task_locations
 
 
 ```python
-df_siders = pd.read_json('data\siders.json')  
+df_siders = pd.read_json('..\data\siders.json')  
 ```
 
 
